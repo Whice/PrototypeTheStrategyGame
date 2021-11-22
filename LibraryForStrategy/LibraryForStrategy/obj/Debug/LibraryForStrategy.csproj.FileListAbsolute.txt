@@ -1,0 +1,5 @@
+c:\users\forni\documents\visual studio 2010\Projects\LibraryForStrategy\LibraryForStrategy\bin\Debug\LibraryForStrategy.dll
+c:\users\forni\documents\visual studio 2010\Projects\LibraryForStrategy\LibraryForStrategy\bin\Debug\LibraryForStrategy.pdb
+c:\users\forni\documents\visual studio 2010\Projects\LibraryForStrategy\LibraryForStrategy\obj\Debug\LibraryForStrategy.dll
+c:\users\forni\documents\visual studio 2010\Projects\LibraryForStrategy\LibraryForStrategy\obj\Debug\LibraryForStrategy.pdb
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\LibraryForStrategy\LibraryForStrategy\obj\Debug\LibraryForStrategy.csprojResolveAssemblyReference.cache

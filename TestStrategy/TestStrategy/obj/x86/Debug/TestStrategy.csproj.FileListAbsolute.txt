@@ -1,0 +1,48 @@
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe.config
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\bin\Debug\TestStrategy.pdb
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csprojResolveAssemblyReference.cache
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.Properties.Resources.resources
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csproj.GenerateResource.Cache
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.exe
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.pdb
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.WindowOfTheGame.resources
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\bin\Debug\LibraryForStrategy.dll
+C:\Users\Forni\Documents\Visual Studio 2010\Projects\TestStrategy\TestStrategy\bin\Debug\LibraryForStrategy.pdb
+E:\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe.config
+E:\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.exe
+E:\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.pdb
+E:\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csprojResolveAssemblyReference.cache
+E:\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.WindowOfTheGame.resources
+E:\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.Properties.Resources.resources
+E:\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csproj.GenerateResource.Cache
+E:\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe
+E:\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.pdb
+E:\strategy\TestStrategy\TestStrategy\bin\Debug\LibraryForStrategy.pdb
+F:\3 курс\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe.config
+F:\3 курс\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.exe
+F:\3 курс\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.pdb
+C:\Users\Whice\Documents\Visual Studio 2010\Projects\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe.config
+C:\Users\Whice\Documents\Visual Studio 2010\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.exe
+C:\Users\Whice\Documents\Visual Studio 2010\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.pdb
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe.config
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.exe
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.pdb
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.exe
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\bin\Debug\TestStrategy.pdb
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\bin\Debug\LibraryForStrategy.dll
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\bin\Debug\LibraryForStrategy.pdb
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csprojResolveAssemblyReference.cache
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.WindowOfTheGame.resources
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.Properties.Resources.resources
+C:\Users\Whice\Downloads\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.WindowOfTheGame.resources
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.exe
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.pdb
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\Interop.EnvDTE.dll
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\Interop.VSLangProj.dll
+D:\Documents\Visual Studio 2019\Projects\strategy\TestStrategy\TestStrategy\obj\x86\Debug\TestStrategy.csproj.ResolveComReference.cache
